@@ -3,9 +3,9 @@ ALLOWED_HOSTS = ['*']
 DEBUG = False
 
 DATABASE_ENGINE = 'django.db.backends.mysql'
-DATABASE_NAME = 'test_db'
-DATABASE_USER = 'test_db_username'
-DATABASE_PASSWORD = 'test_db_password'
+DATABASE_NAME = 'database_name'
+DATABASE_USER = 'db_username'
+DATABASE_PASSWORD = 'db_password'
 DATABASE_HOST = 'localhost'
 DATABASE_PORT = '3302'
 CHARTSET = 'utf8mb4'
