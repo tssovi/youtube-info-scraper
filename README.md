@@ -41,9 +41,9 @@
 
 **Sample API Urls**
 
-- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo&performance=1](127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo&performance=1)
+- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo&performance=1](http://127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo&performance=1)
 
-- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo](127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo)
+- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo](http://127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?tags=zoo)
 
-- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?performance=1](127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?performance=1)
+- [127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?performance=1](http://127.0.0.1:8000/yutube-info/api/v1/videos/videos-details-data/?performance=1)
 
