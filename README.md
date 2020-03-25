@@ -12,7 +12,7 @@
 
 * I am asuming that you already installed Python3, Git and MySql(5.7) in you system.
 * You can run this project by simply downloading and executing `run.sh` script.
-* Create a `env.py` as like as `example_env.py`.
+* Create a `env.py` as like as `env_example.py`.
 * You have a database with same credentials as in `env.py`. If not then configure your own `env.py` file.
 * Please execute `python manage.py run-data-loader` to scrap and seed initial data.
 * Please execute `python manage.py run-auto-updater` to start auto update feature.
